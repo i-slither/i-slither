@@ -3,7 +3,7 @@
 ## I AM ARUNAV AND I AM A FULL STACK DEVELOPER.
 <!--
 **i-slither/i-slither** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Node.js 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: arunavsingha06@gmail.com.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I can play guitar and learn things that I am interested in faster.
--->
+
