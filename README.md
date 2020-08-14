@@ -3,8 +3,8 @@
 ## I AM ARUNAV AND I AM A FULL STACK DEVELOPER.
 <!--
 **i-slither/i-slither** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Node.js 
 - 🌱 I’m currently learning Node.js, Data structures and algorithms, Full Stack. 
